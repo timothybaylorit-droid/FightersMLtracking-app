@@ -1,5 +1,5 @@
 streamlit
-opencv-python
 ultralytics
 numpy
 matplotlib
+git+https://github.com/opencv/opencv-python.git
