@@ -1,6 +1,5 @@
 streamlit
-ultralytics
+mediapipe
 numpy
-matplotlib
 moviepy
 Pillow
