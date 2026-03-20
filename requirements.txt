@@ -2,4 +2,5 @@ streamlit
 ultralytics
 numpy
 matplotlib
-git+https://github.com/opencv/opencv-python.git
+moviepy
+Pillow
